@@ -1,8 +1,12 @@
 {
   "name": "koa1-safe-redirect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "safe redirect middleware for koa 1.x",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forthedamn/koa1-safe-redirect.git"
+  },
   "scripts": {
     "test": "NODE_CONFIG_DIR='./test/config' jest",
     "ci": "npm run test -- --coverage",
