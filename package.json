@@ -1,6 +1,6 @@
 {
   "name": "koa1-safe-redirect",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "safe redirect middleware for koa 1.x",
   "main": "index.js",
   "repository": {
