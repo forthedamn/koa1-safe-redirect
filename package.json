@@ -18,7 +18,7 @@
     "koa"
   ],
   "author": "forthedamn <zhoguoxin@126.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "codecov": "^3.0.0",
     "eslint": "^4.13.1",
